@@ -1,3 +1,6 @@
+![Cover](https://github.com/zenox31470/zenox31470/blob/e979a878d46bf55d45423fb6c70ac666db9e3c88/img/name.svg)
+
+
 ### Hi there 👋
 
 <!--
