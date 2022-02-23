@@ -2,7 +2,7 @@
   <img src="https://github.com/zenox31470/zenox31470/blob/e979a878d46bf55d45423fb6c70ac666db9e3c88/img/name.svg"/>
 </h1>
 
-<h3 align="center">Salut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, je suis Fubuki</h3>
+<h3 align="center">Salut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, je suis Meyer Tom</h3>
 <h5 align="center">Petit développeur français mais passionné !</h5>
 
 
