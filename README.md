@@ -2,7 +2,7 @@
   <img src="https://github.com/zenox31470/zenox31470/blob/99fd8e804581aff31e6838e2c8ca93bc5244127d/img/name.svg"/>
 </h1>
 
-<h3 align="center">Salut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, je suis Meyer Tom</h3>
+<h3 align="center">Salut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30"/>, je suis Meyer Tom</h3>
 <h5 align="center">Petit développeur français mais passionné !</h5>
 
 
