@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ À propos de moi
 
-- 🌱 J'apprends actuellement le language **python** en classe de Terminale générale
+- 🌱 J'apprends actuellement le language **java** en première année de BUT
 - 📫 Comment me joindre : **!Fubuki#3814**
 - 🍰 Je suis un garçon **français** de **17**ans
 
@@ -20,3 +20,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="java" width="40" height="40"/>
