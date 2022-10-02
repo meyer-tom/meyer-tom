@@ -2,15 +2,15 @@
   <img src="https://github.com/zenox31470/zenox31470/blob/99fd8e804581aff31e6838e2c8ca93bc5244127d/img/name.svg"/>
 </h1>
 
-<h3 align="center">Salut <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30"/>, je suis Meyer Tom</h3>
-<h5 align="center">Petit développeur français mais passionné !</h5>
+<h3 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30"/>, I am Tom Meyer</h3>
+<h5 align="center">Small but passionate French developer!</h5>
 
 
-## 🙋‍♂️ À propos de moi
+## 🙋‍♂️ About me
 
-- `🌱` J'apprends actuellement le language **java** et **SQL** en première année de BUT
-- `📫` Comment me joindre : **!Fubuki#3814**
-- `🍰` Je suis un garçon **français** de **18**ans
+- `🌱` I am currently learning the language **java** and **SQL** in my first year at BUT
+- `📫` How to reach me: **Fubuki#3814**
+- `🍰` I am a **French** boy of **18** years old
 
 
 ## 🚀 Langues et outils
