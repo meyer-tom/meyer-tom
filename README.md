@@ -10,7 +10,7 @@
 
 - `🌱` J'apprends actuellement le language **java** en première année de BUT
 - `📫` Comment me joindre : **!Fubuki#3814**
-- `🍰` Je suis un garçon **français** de **17**ans
+- `🍰` Je suis un garçon **français** de **18**ans
 
 
 ## 🚀 Langues et outils
