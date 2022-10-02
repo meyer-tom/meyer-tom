@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ À propos de moi
 
-- `🌱` J'apprends actuellement le language **java** en première année de BUT
+- `🌱` J'apprends actuellement le language **java** et **SQL** en première année de BUT
 - `📫` Comment me joindre : **!Fubuki#3814**
 - `🍰` Je suis un garçon **français** de **18**ans
 
