@@ -9,7 +9,7 @@
 ## 🙋‍♂️ About me
 
 - `🌱` I am currently learning the language **java** and **SQL** in my first year at BUT
-- `📫` How to reach me: **Fubuki#3814**
+- `📫` How to reach me: **!Fubuki#3814**
 - `🍰` I am a **French** boy of **18** years old
 
 
