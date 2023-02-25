@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30"/>, Je m'appelle Tom Meyer</h3>
-<h5 align="center">Petit développeur mais passionné !</h5>
+<h5 align="center">Petit développeur passionné !</h5>
 
 
 ## 🙋‍♂️ À propos
