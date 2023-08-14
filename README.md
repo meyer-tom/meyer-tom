@@ -8,9 +8,10 @@
 
 ## 🙋‍♂️ À propos
 
-- `🌱` Je suis actuellement en train d'apprendre le **Java**, le **SQL** et le **C** dans ma première année de BUT.
-- `📫` me contacter: **tom-meyer#3814**
-- `🍰` I am a **French** boy of **18** years old
+- `🌱` Je suis actuellement en BUT informatique.
+- `💻` Alternance en tant que **développeur Cobol** à BPCE SI
+- `📫` me contacter: **tommeyer**
+- `🍰` Je suis un garçon **français** de **18 ans**
 
 
 ## 🚀 Langages et outils
