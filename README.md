@@ -27,3 +27,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visualstudio" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle_sql_dev" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" />
+
+<br><br>
+<img width="43%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyer-tom&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact" />
